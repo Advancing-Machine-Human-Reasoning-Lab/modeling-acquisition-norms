@@ -20,4 +20,13 @@ If you wish to obtain the original datasets, please see [here](http://wordbank.s
 See the homepage of their respective repositories for installation instructions. For the transformer experiments, we recommend using a CUDA compatible GPU to speed up inference.
 
 ## Citation
-Information for citing our work will be released after the conference.
+If you use this project please cite our paper:
+
+```
+@inproceedings{Laverghetta2021,
+	author = {Laverghetta Jr., Antonio and Licato, John},
+	booktitle = {Proceedings of The 34th International Florida Artificial Intelligence Research Society Conference (FLAIRS-34)},
+	publisher = {AAAI Press},
+	title = {Modeling Age of Acquisition Norms Using Transformer Networks},
+	year = {2021}}
+```
